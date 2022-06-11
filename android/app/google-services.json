@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761089551888",
+    "project_id": "watermark-77667",
+    "storage_bucket": "watermark-77667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761089551888:android:9947c1ed76a9aa4b70e495",
+        "android_client_info": {
+          "package_name": "com.nustac.watermark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761089551888-5mgantu7g4d10j78ciha8hhq16dqpmci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPs2g2fd1jq30aARzUIf6gz6jwr_pa2Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761089551888-5mgantu7g4d10j78ciha8hhq16dqpmci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
